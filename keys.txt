@@ -1,0 +1,2 @@
+HF_TOKEN="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"
+HF_TOKEN_write = "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"

@@ -1,0 +1,15 @@
+torch
+transformers
+langchain
+langchain-community
+sentence-transformers
+python-dotenv
+bitsandbytes
+gradio
+pandas
+langchain_huggingface
+pypdf
+faiss-cpu
+accelerate
+jupyterlab==3.6.1
+openpyxl
