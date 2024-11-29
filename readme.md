@@ -12,7 +12,7 @@ Welcome to **PDF-RAG**, a simple pipeline that lets you upload and interact with
    ```
 
 2. **Follow the notebook:**
-   Open `rag_demo.ipynb` for step-by-step instructions. Sample documents from the Congressional Budget Office are included in the `cbo_documents` folder for testing.
+   Open `rag_demo.ipynb` for step-by-step instructions. Sample documents from the Congressional Budget Office are included in the `cbo_documents` folder for testing. *To make this work, please go to "keys.txt" file and paste your [Hugging Face token](https://huggingface.co/docs/hub/en/security-tokens) to access the models*.  
 
 ## Pipeline Overview
 
