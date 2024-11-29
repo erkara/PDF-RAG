@@ -20,7 +20,7 @@ Welcome to **PDF-RAG**, a simple pipeline that lets you upload and interact with
 - **Embeddings:**
   - We tested **[FinLang](https://huggingface.co/FinLang/finance-embeddings-investopedia)** (for financial documents) and **[sentence-t5-base](https://huggingface.co/sentence-transformers/sentence-t5-base)** (for general use).
   - Embeddings are managed using [**Faiss**](https://github.com/facebookresearch/faiss), which is optimized for fast similarity searches.
-- **Generation:** **[Llama-2-7b-chat](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)** powers the conversational interface.
+- **Generation:** **[Llama-2-7b-chat](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)** for the conversational interface. We load quantized version of the model via [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) so a decent GPU should handle it. 
 
 ## User Interfaces
 
