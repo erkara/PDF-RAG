@@ -37,4 +37,8 @@ Interact with your PDFs using the following code snippets. You can also try out 
 
 ## Notes
 
-The pipeline works great for text-heavy documents but isn’t the best fit for those with complex multi-modal content just yet. Don’t worry—we’re cooking up an update to tackle that with a multi-modal RAG pipeline powered by Vision LLMs. Until then, we’d love to hear your feedback or questions. Cheers!
+The pipeline works great for text-heavy documents but isn’t the best fit for those with complex multi-modal content just yet. Don’t worry—we’re cooking up an update to tackle that with a multi-modal RAG pipeline powered by Vision LLMs. Actually, we did, access [MultiModel-RAG-ColPali-Qdrant-Qwen](https://github.com/erkara/MultiModel-RAG-ColPali-Qdrant-Qwen) for all the materials. We’d love to hear your feedback or questions. Cheers!
+
+Erdi: erdi_kara88@hotmail.com
+Furkan: furkanz@gmail.com 
+
